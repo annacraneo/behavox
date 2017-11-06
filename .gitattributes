@@ -1,1 +1,2 @@
 *.docx binary
+*.docx diff=pandoc
