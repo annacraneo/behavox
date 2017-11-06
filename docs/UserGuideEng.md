@@ -44,7 +44,7 @@ Relations between the classes are visualized **as bundles within the circle**.
 Also, you can rotate the circle for the better representation of the packages.
 To do so, move your mouse pointer (the pointer transforms from
 
-![](media/a5aada3559a541f1ffcc427ce4ea796f.png)
+![](/docs/pics/pointer1.png)
 
 to
 
