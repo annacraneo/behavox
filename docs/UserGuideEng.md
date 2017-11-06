@@ -48,7 +48,7 @@ To do so, move your mouse pointer (the pointer transforms from
 
 to
 
-![](media/578019448a11aec80afbc04fabc2437d.png)
+![](/docs/pics/pointer2.png)
 
 ) in any place within the circle, press the left mouse button and rotate
 clockwise or counter-clockwise.
@@ -77,7 +77,7 @@ bundles. You can control the bundling strength:
 Some browsers (i.e., Microsoft Edge v. 40) also visualize the current tension
 value from 0 to 100.
 
-![](media/dc6f640a7e5e274a5ee52480e08a003a.png)
+![](/docs/pics/ui.png)
 
 Figure 1. UI elements.
 
@@ -102,7 +102,7 @@ Callers **within the package** are SizePalette, ShapePalette, ColorPalette.
 Callers **outside the package** are SizeEncoder, ShapeEncoder, Encoder,
 ColorEncoder.
 
-![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-58.png](media/6728a680db49edb63bacb55b01d2ad05.png)
+![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-58.png](/docs/pics/green.png)
 
 C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-58.png
 
@@ -116,7 +116,7 @@ Callee **within the package** is Control.
 
 Callees **outside the package** are TooltipEvent, Tween, TextSprite.
 
-![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-37.png](media/63eeaac93ed83b618161961d8e41bc17.png)
+![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-37.png](/docs/pics/red.png)
 
 C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-37.png
 
