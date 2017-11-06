@@ -1,2 +1,4 @@
 *.docx binary
 *.docx diff=pandoc
+*.docx wdiff=pandoc
+*.md diff
