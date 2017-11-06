@@ -27,8 +27,8 @@ Glossary
 | Application programming interface (API) | A set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components. |
 
 1.  Interaction with the tool
-
-    1.  UI description
+1.1  UI description
+--------------------------
 
 Tool’s UI is a single web-page with the following elements:
 
@@ -75,7 +75,7 @@ value from 0 to 100.
 
 Figure 1. UI elements.
 
-Relationship visualization
+1.2. Relationship visualization
 --------------------------
 
 You can visualize connections for a particular class. To see the connection, one
@@ -98,8 +98,6 @@ ColorEncoder.
 
 ![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-58.png](/docs/pics/green.png)
 
-C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-58.png
-
 Figure 2. Callers visualization.
 
 *Example 2. How to see the callees*.
@@ -112,11 +110,9 @@ Callees **outside the package** are TooltipEvent, Tween, TextSprite.
 
 ![C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-37.png](/docs/pics/red.png)
 
-C:\\Users\\anna_craneo\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Word\\chrome_2017-11-06_15-53-37.png
-
 Figure 3. Callees visualization.
 
-Packages and classes description
+3. Packages and classes description
 ================================
 
 In this section packages and classes are described. Please note, that only
