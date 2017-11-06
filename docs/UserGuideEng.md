@@ -42,13 +42,7 @@ package (see red boxes in the picture below).
 Relations between the classes are visualized **as bundles within the circle**.
 
 Also, you can rotate the circle for the better representation of the packages.
-To do so, move your mouse pointer (the pointer transforms from
-
-![](/docs/pics/pointer1.png)
-
-to
-
-![](/docs/pics/pointer2.png)
+To do so, move your mouse pointer (the pointer transforms from ![](/docs/pics/pointer1.png) to ![](/docs/pics/pointer2.png)
 
 ) in any place within the circle, press the left mouse button and rotate
 clockwise or counter-clockwise.
