@@ -1,2 +1,3 @@
 *.docx binary
 *.docx diff=pandoc
+git wdiff UserGuideEng.docx
