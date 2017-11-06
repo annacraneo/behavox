@@ -77,7 +77,7 @@ bundles. You can control the bundling strength:
 Some browsers (i.e., Microsoft Edge v. 40) also visualize the current tension
 value from 0 to 100.
 
-![](media/0465e938418df8e6f906e584cc338ef5.png)
+![Figure 1](media/0465e938418df8e6f906e584cc338ef5.png)
 
 Figure 1. UI elements.
 
