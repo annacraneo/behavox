@@ -133,7 +133,7 @@ packages refer to
     class="anchor"><span id="_Toc497751481"
     class="anchor"></span></span></span>
 
-    1.  Package flare.analytics.cluster
+    1.1  Package flare.analytics.cluster
         -------------------------------
 
 The flare.analytics.cluster package provides classes for clustering data
