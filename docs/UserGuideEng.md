@@ -56,7 +56,7 @@ bundling strength provides high-level information as well by implicit
 visualization of adjacency edges between **parent** classes that are the result
 of explicit adjacency edges between their respective **child** classes.
 
-It is up to you to decide what bundling strength is necessary for his/her needs.
+It is up to you to decide what bundling strength is necessary for your needs.
 
 The closer the handler to the slider’s left edge, the lower is bundling
 strength. As the bundling strength is increased, areas of interest emerge as
