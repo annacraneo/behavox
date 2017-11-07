@@ -100,7 +100,7 @@ ColorEncoder.
 
 Figure 2. Callers visualization.
 
-*Example 2. How to see the callees*.
+**Example 2. How to see the callees**.
 
 A «TooltipControl» class with medium tension is chosen.
 
