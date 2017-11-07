@@ -78,7 +78,7 @@ Figure 1. UI elements.
 1.2. Relationship visualization
 --------------------------
 
-You can visualize connections for a particular class. To see the connection, one
+You can visualize connections for the particular class. To see the connection, one
 should put the mouse pointer on the class. Next:
 
 -   The selected class is highlighted blue;
