@@ -26,7 +26,8 @@ Glossary
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Application programming interface (API) | A set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components. |
 
-1.  Interaction with the tool
+1. Interaction with the tool
+========
 
 1.1. UI description
 --------------------------
