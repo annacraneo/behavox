@@ -112,7 +112,7 @@ Callees **outside the package** are TooltipEvent, Tween, TextSprite.
 
 Figure 3. Callees visualization.
 
-3. Packages and classes description
+3.Packages and classes description
 ================================
 
 In this section packages and classes are described. Please note, that only
@@ -120,8 +120,8 @@ visualization, animation, and some querying packages are covered here, the
 «technical» ones are excluded. For more information on packages refer to
 <http://flare.prefuse.org/api/>.
 
-1.  Package flare.analytics.cluster
-
+Package flare.analytics.cluster
+------------------------------------
 The flare.analytics.cluster package provides classes for clustering data into
 groups.
 
